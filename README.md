@@ -1,6 +1,6 @@
 ### Guide for use generator Pay For Blob Celestia
 
-Link Demo : http://65.21.232.160:4010/
+Link Demo : http://38.242.139.76:4010/
 
 
 To ensure that this UI works properly, make sure to run the UI server on the Celestia node gateway server with port 26659 and sufficient balance.
@@ -8,11 +8,14 @@ To ensure that this UI works properly, make sure to run the UI server on the Cel
 
 ## Generate 
 
-![Screenshot 2023-04-12 at 04 49 58](https://user-images.githubusercontent.com/65535542/231295828-bee0c644-1f57-4461-8a4c-750fcb826fd6.png)
+![image](https://github.com/demigohu/celestiapayfb/assets/46390405/1db9e1cd-4cca-4995-be4d-6877760113c2)
 
 
-## Result For PFB
-![Screenshot 2023-04-12 at 04 49 58](https://user-images.githubusercontent.com/65535542/231295910-4c1f5974-6270-48e3-82b2-cab605b53943.png)
+
+
+## Result For Pay For Blob Transaction
+![image](https://github.com/demigohu/celestiapayfb/assets/46390405/08242d4a-12d9-4c3f-903d-0fb53ebfe353)
+
 
 
 
@@ -35,11 +38,11 @@ npm install express
 ```
 
 ```bash
-git clone https://github.com/Dexanode/celestia_pfb
+git clone https://github.com/demigohu/celestiapayfb
 ``` 
 
 ```bash
-cd celestia_pfb
+cd celestiapayfb
 ```
 
 ```
